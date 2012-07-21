@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverDrive", "OverDrive\OverDrive.csproj", "{C4057E42-99B3-4F8B-9815-EA00E4E6F89A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4057E42-99B3-4F8B-9815-EA00E4E6F89A}.Debug|x86.ActiveCfg = Debug|x86
+		{C4057E42-99B3-4F8B-9815-EA00E4E6F89A}.Debug|x86.Build.0 = Debug|x86
+		{C4057E42-99B3-4F8B-9815-EA00E4E6F89A}.Release|x86.ActiveCfg = Release|x86
+		{C4057E42-99B3-4F8B-9815-EA00E4E6F89A}.Release|x86.Build.0 = Release|x86
+		{DF8C68F8-C25E-487E-9BF3-645D2A9FAC4D}.Debug|x86.ActiveCfg = Debug|x86
+		{DF8C68F8-C25E-487E-9BF3-645D2A9FAC4D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
